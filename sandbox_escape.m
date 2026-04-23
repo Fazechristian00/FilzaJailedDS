@@ -53,9 +53,12 @@ static uint64_t __attribute((naked)) __xpaci_sbx(uint64_t a) {
 #define __xpaci_sbx(x) (x)
 #endif
 
+extern uint64_t VM_MIN_KERNEL_ADDRESS;
+extern uint64_t pac_mask;
+
 #define S(x) ({ uint64_t _v = __xpaci_sbx(x); \
-    ((_v >> 32) > 0xFFFF ? (_v | 0xFFFFFF8000000000ULL) : _v); })
-#define K(x) ((x) > 0xFFFFFF8000000000ULL)
+    ((_v >> 32) > 0xFFFF ? (_v | pac_mask) : _v); })
+#define K(x) ((x) > VM_MIN_KERNEL_ADDRESS)
 
 #pragma mark - Extension patching
 
